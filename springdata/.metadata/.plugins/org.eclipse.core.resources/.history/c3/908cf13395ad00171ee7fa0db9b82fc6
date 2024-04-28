@@ -1,0 +1,20 @@
+package com.bharath.springdata.product;
+
+import javax.persistence.DiscriminatorValue;
+import javax.persistence.Entity;
+
+@Entity
+@DiscriminatorValue(value = "cc")
+public class Child1 extends Parent {
+
+	private String cardnumber;
+
+	public String getCardnumber() {
+		return cardnumber;
+	}
+
+	public void setCardnumber(String cardnumber) {
+		this.cardnumber = cardnumber;
+	}
+
+}

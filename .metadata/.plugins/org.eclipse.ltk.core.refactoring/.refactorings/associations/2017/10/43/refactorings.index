@@ -1,0 +1,27 @@
+1508655947832	Delete element
+1508656009994	Copy compilation unit
+1508656623989	Encapsulate field 'projects'
+1508659055016	Delete element
+1508659234238	Extract local variable 'programmer'
+1508659351459	Extract local variable 'projects'
+1508659369157	Extract local variable 'e'
+1508668026272	Delete element
+1508668213119	Delete element
+1508668394797	Delete element
+1508669674996	Delete element
+1508669940659	Extract local variable 'programmer'
+1508669992712	Extract local variable 'projects'
+1508670009048	Extract local variable 'e'
+1508742279919	Extract local variable 'programmer'
+1508742375539	Extract local variable 'projects'
+1508742394188	Extract local variable 'e'
+1508744967367	Encapsulate field 'license'
+1508744981692	Encapsulate field 'person'
+1508766165763	Extract local variable 'person'
+1508766223083	Extract local variable 'license'
+1508767062785	Rename type 'PersonRepository'
+1508767102478	Rename type 'BookRepository'
+1508767605545	Extract local variable 'license'
+1508767675666	Extract local variable 'person'
+1508768301288	Delete element
+1508768323272	Delete element

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;student&apos; from expression &apos;new Student()&apos;&#x0A;- Original project: &apos;studenttemp&apos;&#x0A;- Variable name: &apos;student&apos;&#x0A;- Destination method: &apos;com.bharath.springdata.student.StudenttempApplicationTests.testCreateEmp()&apos;&#x0A;- Variable expression: &apos;new Student()&apos;" description="Extract local variable &apos;student&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/test\/java&lt;com.bharath.springdata.student{StudenttempApplicationTests.java" name="student" replace="false" selection="467 13" stamp="1510741114525" version="1.0"/>
+</session>

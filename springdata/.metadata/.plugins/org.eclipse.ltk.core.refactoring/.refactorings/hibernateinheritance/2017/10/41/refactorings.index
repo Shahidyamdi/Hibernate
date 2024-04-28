@@ -1,0 +1,4 @@
+1507626276881	Encapsulate field 'creditcard'
+1507626301936	Encapsulate field 'checknumber'
+1507627089900	Encapsulate field 'cardnumber'
+1507627153886	Extract local variable 'entity'

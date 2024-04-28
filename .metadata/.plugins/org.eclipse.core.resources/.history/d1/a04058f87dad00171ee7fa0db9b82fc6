@@ -1,0 +1,5 @@
+package com.bharath.springdata.product;
+
+public class Child2 {
+
+}

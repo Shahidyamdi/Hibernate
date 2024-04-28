@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Address.java&apos; to &apos;customerdata/src/main/java/com.bharath.springdata.customer.entities&apos;&#x0A;- Original project: &apos;componentmapping&apos;&#x0A;- Destination element: &apos;customerdata/src/main/java/com.bharath.springdata.customer.entities&apos;&#x0A;- Original element: &apos;com.bharath.springdata.componentmapping.entities.Address.java&apos;" description="Copy compilation unit" destination="=customerdata/src\/main\/java&lt;com.bharath.springdata.customer.entities" element1="/src\/main\/java&lt;com.bharath.springdata.componentmapping.entities{Address.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1511081137224" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+package com.bharath.springdata.product;
+
+import javax.persistence.DiscriminatorValue;
+import javax.persistence.Entity;
+
+@Entity
+@DiscriminatorValue(value = "ch")
+public class Child2 {
+
+	private int checkNumber;
+
+	public int getCheckNumber() {
+		return checkNumber;
+	}
+
+	public void setCheckNumber(int checkNumber) {
+		this.checkNumber = checkNumber;
+	}
+
+}

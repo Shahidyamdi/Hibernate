@@ -1,0 +1,6 @@
+1507798657877	Encapsulate field 'id'
+1507798661456	Encapsulate field 'name'
+1507798812787	Encapsulate field 'streetaddress'
+1507798832176	Encapsulate field 'address'
+1507799081889	Extract local variable 'entity'
+1507799113244	Extract local variable 'address'
